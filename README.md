@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Matterport-000000?style=flat&logo=mattermost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
