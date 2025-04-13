@@ -7,8 +7,7 @@
 ✨ I'm a developer experienced in **PHP**, **Unity**, and **XR-based 3D medical content**.  
 🏥 I’ve collaborated with hospitals, participated in academic conferences,  
 🤝 and received mentorship from an **LG Electronics** researcher through the **Hanium** program.
-
----
+<br/><br/>
 
 <h2 align="center">📚 Stacks</h2>
 <p align="center">
@@ -27,8 +26,7 @@
   <img src="https://img.shields.io/badge/Notion-4A4A4A?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white"/>
 </p>
-
----
+<br/><br/>
 
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -36,8 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ykPark0923&show_icons=true&theme=cobalt" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykPark0923&layout=donut&theme=cobalt" height="180"/>
 </p>
-
----
+<br/><br/>
 
 <h2 align="center">💡 Baekjoon Online Judge</h2>
 <p align="center">
@@ -46,23 +43,15 @@
   </a>
 </p>
 
----
+<br/><br/>
 
 <h2 align="center">📁 Projects</h2>
 
-📌 **Train Noise Detection AI Challenge**  
-🔗 [View on Notion](https://www.notion.so/your-notion-link1)
+📌 **AI-Based PCB Defect Detection Project**  
+🔗 [View on Notion](https://www.notion.)
 
-💊 **IC50 Prediction for Drug Discovery**  
-🔗 [View on Notion](https://www.notion.so/your-notion-link2)
 
-🚗 **Daegu Traffic Accident Damage Prediction**  
-🔗 [View on Notion](https://www.notion.so/your-notion-link3)
-
-🦯 **Obstacle Detection for the Visually Impaired (XR)**  
-🔗 [View on Notion](https://www.notion.so/your-notion-link4)
-
----
+<br/><br/>
 
 
 <h2 align="center">🙏 Thanks!</h2>
