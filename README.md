@@ -7,6 +7,7 @@
 I'm a developer experienced in PHP, Unity, and XR-based 3D medical content.  
 I’ve worked with hospitals, joined academic conferences, and received mentorship from LG Electronics through the Hanium program.
 
+<br/><br/>
 <h2 align="center">💻 Stacks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
