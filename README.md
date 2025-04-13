@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maya-1C4C5E?style=flat&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/3D%20Slicer-2A73CC?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matterport-000000?style=flat&logo=mattermost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matterport-FF4F4F?style=flat&logo=mattermost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-738ADB?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-4A4A4A?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white"/>
 </p>
 
 
