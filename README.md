@@ -4,6 +4,9 @@
 
 ## 🧑‍💻 Yukyeong Park
 
+I'm a developer experienced in PHP, Unity, and XR-based 3D medical content.  
+I’ve worked with hospitals, joined academic conferences, and received mentorship from LG Electronics through the Hanium program.
+
 <h2 align="center">💻 Stacks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
@@ -37,19 +40,8 @@
   </a>
 </p>
 
-
-
-<!--
-**ykPark0923/ykPark0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+<h2 align="center">🙏 Thanks!</h2>
+<p align="center">
+  Thank you for visiting my GitHub!  
+</p>
