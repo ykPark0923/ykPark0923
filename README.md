@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77A1D3,100:79CBCA&height=200&section=header&text=Welcome%20👋%20Yukyeong!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77A1D3,100:79CBCA&height=200&section=header&text=👋Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
 ## 🧑‍💻 Yukyeong Park
 
-<h2 align="center">💻 Tech Stacks</h2>
+<h2 align="center">💻 Stacks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
