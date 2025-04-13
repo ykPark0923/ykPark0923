@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykPark0923&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykPark0923&show_icons=true&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=popopo4709)](https://solved.ac/popopo4709/)
 
