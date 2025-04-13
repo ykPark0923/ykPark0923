@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DICOM-006400?style=flat&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maya-1C4C5E?style=flat&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D%20Slicer-2A73CC?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matterport-000000?style=flat&logo=mattermost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white"/>
