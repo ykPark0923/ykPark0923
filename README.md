@@ -5,8 +5,8 @@
 ## 🧑‍💻 Yukyeong Park
 
 ✨ I'm a developer experienced in **PHP**, **Unity**, and **XR-based 3D medical content**.  
-🏥 I’ve collaborated with hospitals, participated in academic conferences,  
-🤝 and received mentorship from an **LG Electronics** researcher through the **Hanium** program.
+🏥 I’ve collaborated with hospitals, a global food corporation, and a golf company, participated in academic conferences,  
+🤝 and received professional mentorship from an **LG Electronics** researcher through the Hanium program.
 <br/><br/>
 
 <h2 align="center">📚 Stacks</h2>
