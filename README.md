@@ -4,11 +4,13 @@
 
 ## 🧑‍💻 Yukyeong Park
 
-I'm a developer experienced in PHP, Unity, and XR-based 3D medical content.  
-I’ve worked with hospitals, joined academic conferences, and received mentorship from LG Electronics through the Hanium program.
+✨ I'm a developer experienced in **PHP**, **Unity**, and **XR-based 3D medical content**.  
+🏥 I’ve collaborated with hospitals, participated in academic conferences,  
+🤝 and received mentorship from an **LG Electronics** researcher through the **Hanium** program.
 
-<br/><br/>
-<h2 align="center">💻 Stacks</h2>
+---
+
+<h2 align="center">📚 Stacks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -26,14 +28,17 @@ I’ve worked with hospitals, joined academic conferences, and received mentorsh
   <img src="https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white"/>
 </p>
 
-<br/><br/>
+---
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ykPark0923&show_icons=true&theme=cobalt" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykPark0923&layout=donut&theme=cobalt" height="180"/>
 </p>
 
-<br/><br/>
+---
+
 <h2 align="center">💡 Baekjoon Online Judge</h2>
 <p align="center">
   <a href="https://solved.ac/popopo4709/">
@@ -41,8 +46,27 @@ I’ve worked with hospitals, joined academic conferences, and received mentorsh
   </a>
 </p>
 
-<br/><br/>
+---
+
+<h2 align="center">📁 Projects</h2>
+
+📌 **Train Noise Detection AI Challenge**  
+🔗 [View on Notion](https://www.notion.so/your-notion-link1)
+
+💊 **IC50 Prediction for Drug Discovery**  
+🔗 [View on Notion](https://www.notion.so/your-notion-link2)
+
+🚗 **Daegu Traffic Accident Damage Prediction**  
+🔗 [View on Notion](https://www.notion.so/your-notion-link3)
+
+🦯 **Obstacle Detection for the Visually Impaired (XR)**  
+🔗 [View on Notion](https://www.notion.so/your-notion-link4)
+
+---
+
+
 <h2 align="center">🙏 Thanks!</h2>
 <p align="center">
   Thank you for visiting my GitHub!  
+  If you're interested in collaboration or projects, feel free to connect with me anytime 😊
 </p>
