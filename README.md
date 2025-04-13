@@ -23,7 +23,7 @@
 </p>
 
 
-
+<br/><br/><br/>
 
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -34,7 +34,7 @@
 
 
 
-
+<br/><br/><br/>
 
 
 <h2 align="center">💡 Baekjoon Online Judge</h2>
