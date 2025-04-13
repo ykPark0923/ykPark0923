@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeDongVibe&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojusername)](https://solved.ac/yourbojusername/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykPark0923&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=popopo4709)](https://solved.ac/popopo4709/)
 
 <!--
 **ykPark0923/ykPark0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
