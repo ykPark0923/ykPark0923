@@ -5,7 +5,7 @@
 ## 🧑‍💻 Yukyeong Park
 
 ✨ I'm a developer experienced in **PHP**, **Unity**, and **XR-based 3D medical content**.  
-🏥 I’ve collaborated with hospitals, a global food corporation, and a golf company.
+🏥 I’ve collaborated with a hospital, a global food corporation, and a golf company.
 <br/><br/>
 
 <h2 align="center">📚 Stacks</h2>
